@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iry Indriyanto
 
-I'm a **maintenance engineer** transitioning into tech, blending my experience in **manufacturing** with my passion for **AI** and **web development**.
+I'm an **electrical maintenance engineer** transitioning into tech, blending my experience in **manufacturing** with my passion for **AI** and **web development**.
 
 ## 🚀 What I'm Working On
 - 🧠 Experimenting with **AI integration**  
